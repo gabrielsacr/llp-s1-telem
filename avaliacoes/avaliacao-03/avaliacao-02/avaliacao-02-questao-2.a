@@ -1,0 +1,10 @@
+#include
+int main()
+{
+int i = 0;
+while(i < 100) {
+i++;
+if(i % 4 != 0) {
+
+} else {
+printf("%d\n", i);
